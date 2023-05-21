@@ -22,7 +22,7 @@ function MenuResponsive({ setIsOpen }) {
               <a href='/outliant-assessment/'>Services</a>
             </li>
             <li>
-              <a href='/outliant-assessment/products'>Products</a>
+              <a href='/outliant-assessment/products/'>Products</a>
             </li>
           </ul>
         </div>
