@@ -16,16 +16,16 @@ function Menu() {
         <div className='menu-links'>
           <ul>
             <li>
-              <a href='/'>Home</a>
+              <a href='/outliant-assessment/'>Home</a>
             </li>
             <li>
-              <a href='/'>About</a>
+              <a href='/outliant-assessment/'>About</a>
             </li>
             <li>
-              <a href='/'>Services</a>
+              <a href='/outliant-assessment/'>Services</a>
             </li>
             <li>
-              <a href='/products'>Products</a>
+              <a href='/outliant-assessment/products'>Products</a>
             </li>
           </ul>
         </div>

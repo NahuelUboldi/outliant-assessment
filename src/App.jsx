@@ -10,8 +10,8 @@ function App() {
     <Router>
       <Menu />
       <Routes>
-        <Route path='/' element={<Home />} />
-        <Route path='/products' element={<Products />} />
+        <Route path='/outliant-assessment/' element={<Home />} />
+        <Route path='/outliant-assessment/products' element={<Products />} />
       </Routes>
       <Footer />
     </Router>
