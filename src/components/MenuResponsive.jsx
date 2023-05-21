@@ -13,16 +13,16 @@ function MenuResponsive({ setIsOpen }) {
         <div className='links'>
           <ul>
             <li>
-              <a href='/outliant-assessment/'>Home</a>
+              <a href='/outliant-assessment'>Home</a>
             </li>
             <li>
-              <a href='/outliant-assessment/'>About</a>
+              <a href='/outliant-assessment'>About</a>
             </li>
             <li>
-              <a href='/outliant-assessment/'>Services</a>
+              <a href='/outliant-assessment'>Services</a>
             </li>
             <li>
-              <a href='/outliant-assessment/products/'>Products</a>
+              <a href='/outliant-assessment/products'>Products</a>
             </li>
           </ul>
         </div>
