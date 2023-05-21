@@ -396,9 +396,7 @@ aside.form .form-wrapper form input {
   #footer img {
     max-width: 100%;
   }
-  #footer .btns {
-    flex-direction: row;
-  }
+
   #products-section .content {
     display: grid;
     grid-template-columns: 2fr 1fr;
